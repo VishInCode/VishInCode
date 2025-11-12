@@ -28,7 +28,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VishInCode&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/VishInCode/VishInCode/output/snake.svg" alt="Snake animation" />
+
+###
 ---
 [![](https://visitcount.itsvg.in/api?id=VishInCode&icon=3&color=9)](https://visitcount.itsvg.in)
 
