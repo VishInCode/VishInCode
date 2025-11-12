@@ -32,9 +32,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VishInCode/VishInCode/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/VishInCode/VishInCode/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
+
 ---
 [![](https://visitcount.itsvg.in/api?id=VishInCode&icon=3&color=9)](https://visitcount.itsvg.in)
 
