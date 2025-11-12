@@ -1,5 +1,12 @@
+
+<!-- Title centered -->
+<h1 align="center" style="margin-top: 40px;">परिचय</h1>
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on a full-stack website (project details under wraps for now)<br>🤝 I’m looking to collaborate with and learn from others in the tech community<br>🆘 I’m looking for help with improving my development and ML skills<br>🌱 I’m currently learning Machine Learning concepts and real-world applications<br>💬 Ask me about Data Science, Python, or Full-Stack Development<br>⚡ Fun fact: I enjoy exploring how data can tell stories through code
+
 
 
 ## 🌐 Socials:
@@ -20,6 +27,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VishInCode&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VishInCode&icon=3&color=9)](https://visitcount.itsvg.in)
